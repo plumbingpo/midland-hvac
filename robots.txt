@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://midlandhvacco.com/sitemap.xml
